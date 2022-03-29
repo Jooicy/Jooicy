@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jooicy
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me: samdpr11@gmail.com
